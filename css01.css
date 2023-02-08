@@ -1,0 +1,125 @@
+body {
+    background-color: white;  
+    margin: 10px 200px 0px 200px;
+    border: 5px solid black;
+}
+
+
+.title01 {
+    background-image: url("Resources/01.webp");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.brushes-box {
+    background-color: mediumspringgreen;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    margin-left: 10px;
+    margin-right: 100px;
+}
+
+.frames-box {
+    background-color: lightcoral;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    margin-left: 10px;
+    margin-right: 100px;
+
+}
+
+.paint-box {
+    background-color: skyblue;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    margin-left: 10px;
+    margin-right: 100px;
+
+}
+
+
+.title-text {
+border: 5px solid black;
+font-family: Helvetica;
+font-size: 100px;
+font-weight: bold;
+color: khaki;
+width: 100%;
+text-align: center;
+position: relative;
+padding-top: 0px;
+box-sizing: border-box;
+}
+
+.h1-title {
+    border: 1px solid black;
+    font-family: Helvetica;
+    font-size: 30px;
+    font-weight: bold;
+    color: white;
+    width: 100%;
+    text-align: left;
+    position: relative;
+    padding-top: 0px;
+    box-sizing: border-box;
+}
+
+.text01-box {
+    background-color: white;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    margin-left: 10px;
+    margin-right: 100px;
+
+}
+.text01 {
+    font-family: Helvetica;
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+    width: 100%;
+    text-align: left;
+    position: relative;
+    padding-top: 0px;
+    box-sizing: border-box;
+}
+h4 {
+    font-family: Helvetica;
+    font-size: 15px;
+    color: black;
+    width: 100%;
+    text-align: left;
+    position: relative;
+    padding-top: 0px;
+    box-sizing: border-box;
+}
+.colorh4 {
+    font-family: Helvetica;
+    font-size: 15px;
+    color: blue;
+    width: 100%;
+    text-align: left;
+    position: relative;
+    padding-top: 0px;
+    box-sizing: border-box;
+    font-weight: bold;
+}
+
+.image-box {
+    margin-left: 10px;
+    margin-right: 100px;
+    border: 1px solid black;
+}
+
+
+
+
+
+
